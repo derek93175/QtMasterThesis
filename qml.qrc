@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/testdata-diagram_01.png</file>
+        <file>dataVisualization.py</file>
+        <file>simulation.qml</file>
+    </qresource>
+</RCC>
